@@ -9,6 +9,15 @@ body{
 .App {
   text-align: center;
 }
+html{
+  background-color: #202122;
+}
+nav{
+  background-color: #202122;
+  padding: 20px;
+  color: white;
+  height: 100%;
+}
 
 .App-header {
   background-color: #282c34;
@@ -48,12 +57,12 @@ body{
 
 button {
   padding: 10px 20px;
-  background-color: #61dafb;
+  background-color: #000000;
   border: none;
   border-radius: 5px;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: #21a1f1;
+  background-color: #040404;
 }
